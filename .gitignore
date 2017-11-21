@@ -38,3 +38,6 @@ components/**/*.jsx
 !components/**/__tests__/*.js
 !components/**/__tests__/*.js.snap
 /.history
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
